@@ -1,0 +1,50 @@
+{
+    "post": [ 
+    {
+    "userId": 1,
+    "id": 1,
+    "title": "seif eddine menjli",
+    "body": "hochschule bonn rhein sieg"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  }
+    ],
+    
+    "photos":[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "http://placehold.it/600/92c952",
+    "thumbnailUrl": "http://placehold.it/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "hallo world",
+    "url": "http://placehold.it/600/771796",
+    "thumbnailUrl": "http://placehold.it/150/771796"
+  }],
+    
+    "comments":[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "id labore ex et quam laborum",
+    "email": "Eliseo@gardner.biz",
+    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "quo vero reiciendis velit similique earum",
+    "email": "Jayne_Kuhic@sydney.com",
+    "body": "umquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+  }
+]
+
+}
